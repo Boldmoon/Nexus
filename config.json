@@ -1,0 +1,38 @@
+{
+  "nexus_data": {
+    "wifi_ssid": "--",
+    "wifi_pwd": "--",
+    "mqtt_host": "--",
+    "mqtt_uname": "--",
+    "mqtt_pwd": "--",
+    "mqtt_client_id": "--"
+  },
+
+  "pin_numbers": {
+    "DHT_PIN": 4,
+    "DBS_PIN": 28,
+    "LDR_PIN": 20,
+    "IR_PIN": 22,
+    "TLT_PIN": 18,
+    "PIR_PIN": 19,
+    "POT_PIN": 26,
+    "MQ5_PIN": 27,
+    "LED1_PIN": 11,
+    "LED2_PIN": 12,
+    "BUZZ_PIN": 13
+  },
+
+  "enable_module": {
+    "DHT_EN": 1,
+    "DBS_EN": 1,
+    "LDR_EN": 1,
+    "IR_EN": 1,
+    "TLT_EN": 0,
+    "PIR_EN": 0,
+    "POT_EN": 1,
+    "MQ5_EN": 1,
+    "LED1_EN": 1,
+    "LED2_EN": 1,
+    "BUZZ_EN": 0
+  }
+}
